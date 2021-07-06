@@ -1,5 +1,5 @@
 # DevOps_assignment_Shunyeka
 
-##Installing Flask##
+## Installing Flask
 
--Install Flask using the command below:
+*Install Flask using the command below:*
