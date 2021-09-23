@@ -1,6 +1,6 @@
 # DevOps_assignment_Shunyeka
 
-## Installing Flask
+## Installing flask
 
 *Install Flask using the command below:*
 
@@ -12,7 +12,7 @@ pip install Flask
 *Create a file called hello.py*
 
 ```
-from flask import Flask
+from flask import Flask 
 app = Flask(__name__)
 
 @app.route("/")
